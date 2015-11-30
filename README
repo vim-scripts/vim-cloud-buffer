@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=5277
+
+CloudBuffer is a plugin developed to store and retrieve buffers in a MongoDB Simple Http Rest endpoint.
+
+https://github.com/jbgutierrez/vim-cloud-buffer
